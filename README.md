@@ -1,2 +1,2 @@
 # LEA6-GPS-with-Honeywell-PMS-Sensor
-![image] (https://github.com/jaspers0324/LEA6-GPS-with-Honeywell-PMS-Sensor/blob/master/Resulting%20of%20LEA6%20I2C%20GPS%20with%20Honeywell%20PMS%20Sensor.png?raw=true)
+![image] https://drive.google.com/drive/u/0/folders/1FnNTOhwGeIFtsZM-ryFHLjSqhk67gPQc
